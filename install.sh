@@ -17,7 +17,7 @@ else
 fi        
 
 #step4
-if [ -f sentiment_model.pkl ]; then
+if [ -f !sentiment_model.pkl ]; then
     echo "model not found, first train it"
 else 
     echo "model exists"
