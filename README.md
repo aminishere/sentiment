@@ -19,7 +19,8 @@ Sentiment-Analysis/
 ├── models/  
 │ ├── sentiment_model.pkl   
 │ ├── vectorizer.pkl  
-│  
+│
+├── install.sh      
 ├── app.py     
 ├── requirements.txt  
 ├── README.md  
@@ -47,3 +48,29 @@ Sentiment-Analysis/
 ## Deployment
 
 Model deployed on Streamlit.
+
+## Installation Guide
+
+1. Clone the repository:
+
+   ```
+    git clone https://github.com/aminishere/sentiment.git
+    cd sentiment
+   ```
+2. Make the installation script executable (in windows use git bash in terminal):
+
+   ```
+   chmod +x install.sh
+   ```
+
+3. Run the script to install dependencies:
+
+   ```
+   ./install.sh
+   ```
+
+4. Start the Streamlit app:
+
+   ```
+   streamlit run app.py
+   ```
