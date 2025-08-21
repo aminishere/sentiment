@@ -7,7 +7,7 @@ A machine learning model that classifies reviews as **Positive** or **Negative**
 
 
 ## Directory Structure :
-
+```
 Sentiment-Analysis/  
 │  
 ├── data/  
@@ -24,6 +24,9 @@ Sentiment-Analysis/
 ├── requirements.txt  
 ├── README.md  
 ├── .gitignore
+
+```
+
 ## Tech Stack
 
 - Python   
