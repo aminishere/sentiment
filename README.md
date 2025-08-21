@@ -69,8 +69,4 @@ Model deployed on Streamlit.
    ./install.sh
    ```
 
-4. Start the Streamlit app:
 
-   ```
-   streamlit run app.py
-   ```
