@@ -1,7 +1,7 @@
 
 # Sentiment Analysis Tool
 
-**About** :  
+
 
 A machine learning model that classifies reviews as **Positive** or **Negative** using **Naive Bayes (MultinomialNB)**.
 
