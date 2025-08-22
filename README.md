@@ -6,6 +6,15 @@
 A machine learning model that classifies reviews as **Positive** or **Negative** using **Naive Bayes (MultinomialNB)**.
 
 
+## Tech Stack
+
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/512c027c-320a-4253-920b-afb27042fb70" /> 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b586614d-01cf-43d7-a977-4a8910ce2594" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/51e9b5f7-e9c4-4a7b-90c4-85b4d349f354" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/80ca20c3-b83f-4f80-8028-74275c0421f5" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/09b3b596-3471-41b1-8804-9fe5ddfd4192" />
+
+
 ## Directory Structure :
 ```
 Sentiment-Analysis/  
@@ -28,13 +37,8 @@ Sentiment-Analysis/
 
 ```
 
-## Tech Stack
 
-- Python   
-- Scikit-learn  -> vectorization, model training, evaluation
-- NLTK  -> preprocessing (tokenization, stopwords, stemming)
-- NumPy, Pandas  -> data reading
-- Matplotlib, Seaborn  -> confusion matrix & visualization
+
 
 
 ## Features
@@ -45,9 +49,6 @@ Sentiment-Analysis/
 - Confusion matrix & accuracy evaluation.  
 - Model persistence using **Pickle**.  
 
-## Deployment
-
-Model deployed on Streamlit.
 
 ## Installation Guide
 
